@@ -1,16 +1,17 @@
-### Hi there 👋
+# Sebi
+## Facts
+ - 16 years old, living in germany
+ - CEO, Software and System Developer at [KeksStudios](https://keksstudios.dev).
+ - Working with Java, JDA, HTML/CSS/JS php, MySQL, C#, Python 
+ - Love cookies 
+ 
+ ## Own Projects
+  - KeksChat (RealtimeChat with WebApp, Desktop-App and Mobile App)
+  - KeksBot (Discord Bot)
+  - AMEP (Anonymous Message Exchange Platform)
 
-<!--
-**superSebi/superSebi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+  - sebi@keksstudios.dev (Contact me via. E-Mail (late response)
+  - development@keksstudios.dev (Contact development team of keksstudios (late response, maybe not me))
+  - support@keksstudios.dev (Contact KeksStudios Support (fast response, maybe not me))
+  - [Discord](https://discord.gg/WdHpHYn) (Join my discord server. very fast response)
