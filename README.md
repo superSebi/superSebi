@@ -8,6 +8,7 @@
  ## Own Projects
   - KeksChat (RealtimeChat with WebApp, Desktop-App and Mobile App)
   - KeksBot (Discord Bot)
+  - DiscordRobots (DiscordBotList)
   - AMEP (Anonymous Message Exchange Platform)
 
 ## Contact
