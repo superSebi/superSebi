@@ -2,11 +2,11 @@
 ## Facts
  - 16 years old, living in germany
  - CEO, Software and System Developer at [KeksStudios](https://keksstudios.dev).
- - Working with Java, JDA, HTML/CSS/JS php, MySQL, C#, Python 
+ - Working with PHP, HTML/CSS/JS, MySQL, Java, JDA, C#, Python 
  - Love cookies 
  
  ## Own Projects
-  - KeksChat (RealtimeChat with WebApp, Desktop-App and Mobile App)
+  - Chattari (RealtimeChat with WebApp, Desktop-App and Mobile App)
   - KeksBot (Discord Bot)
   - DiscordRobots (DiscordBotList)
   - AMEP (Anonymous Message Exchange Platform)
