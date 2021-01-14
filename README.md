@@ -1,4 +1,5 @@
 # Sebi
+Welcome to my personal page, this page is currently in creation :3
 ## Facts
  - 16 years old, living in germany
  - CEO, Software and System Developer at [KeksStudios](https://keksstudios.dev).
