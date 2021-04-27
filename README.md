@@ -15,7 +15,17 @@
   - development@keksstudios.dev (Contact development team of keksstudios (late response, maybe not me))
   - support@keksstudios.dev (Contact KeksStudios Support (fast response, maybe not me))
   - [Discord](https://discord.gg/WdHpHYn) (Join my discord server. very fast response)
-  
+
+## Programming languages
+  - Java
+  - PHP
+  - SQL
+  - JavaScript
+  - TypeScript
+  - NodeJS
+  - Python
+  - C/C++/C#
+
 ## Games
   - Star Wars Battlefront 2
   - Fifa 21
@@ -27,16 +37,6 @@
 ## Languages
   - German
   - English
-
-## Programming languages
-  - Java
-  - PHP
-  - SQL
-  - JavaScript
-  - TypeScript
-  - NodeJS
-  - Python
-  - C/C++/C#
   
 ## Stats
 
