@@ -1,6 +1,6 @@
 # Sebi
 ## Facts
- - 16 years old, living in germany
+ - 17 years old, living in germany
  - CEO, Software and System Developer at [KeksStudios](https://keksstudios.dev)
  - Loves animes ([MyAnimeList](https://myanimelist.net/animelist/MauricePascal))
 
