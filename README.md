@@ -1,8 +1,7 @@
 # Sebi
 ## Facts
- - 17 years old, living in germany
+ - 18 years old, living in germany
  - CEO, Software and System Developer at [KeksStudios](https://keksstudios.dev)
- - Loves animes ([MyAnimeList](https://myanimelist.net/animelist/MauricePascal))
 
  ## Own Projects
   - Chattari (RealtimeChat with WebApp, Desktop-App and Mobile App)
@@ -25,14 +24,15 @@
   - NodeJS
   - Python
   - C/C++/C#
+  - (HTML/CSS)
 
 ## Games
   - Star Wars Battlefront 2
-  - Fifa 21
+  - Fifa 22
   - Valorant
   - Minecraft
-  - Among Us
   - 100% orange juice
+  - LoL
   
 ## Languages
   - German
