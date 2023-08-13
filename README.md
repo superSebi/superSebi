@@ -1,7 +1,7 @@
 # Sebi
 ## Facts
- - 18 years old, living in germany
- - CEO, Software and System Developer at [KeksStudios](https://keksstudios.dev)
+ - 1 years old, living in germany
+ - CEO, Software and System Developer at [Umidy Network](https://umidy.net)
 
  ## Own Projects
   - Chattari (RealtimeChat with WebApp, Desktop-App and Mobile App)
