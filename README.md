@@ -1,6 +1,6 @@
 # Sebi
 ## Facts
- - 19 years old, living in germany
+ - 20 years old, living in germany
  - CEO, Software and System Developer at [Umidy Network](https://umidy.net)
 
  ## Own Projects
@@ -28,12 +28,12 @@
 
 ## Games
   - Minecraft
-  - Fifa 24
+  - Fifa 25
   - Valorant
   - Star Wars Battlefront 2
   - 100% orange juice
   - LoL
-  - Starfield
+  - Harry Potter Quidditch Champions
   - Sea of Thieves
   - Hogwarts Legacy
   
