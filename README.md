@@ -25,17 +25,6 @@
   - Python
   - C/C++/C#
   - (HTML/CSS)
-
-## Games
-  - Minecraft
-  - Fifa 25
-  - Valorant
-  - Star Wars Battlefront 2
-  - 100% orange juice
-  - LoL
-  - Harry Potter Quidditch Champions
-  - Sea of Thieves
-  - Hogwarts Legacy
   
 ## Languages
   - German
